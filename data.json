@@ -1,0 +1,63 @@
+ {
+ 
+	"basicdetails":{
+		"image":"chrysanthemum,.jpg",
+		 "name":"D.anjali",
+		 "email":"ad080@gmail.com",
+		 "phone":"7676474747",
+		 "address":"17-59-90,guntur"
+
+ },
+ "education":[
+ {
+ 	"course":"btech(c.s.e)",
+ 	"college":"vignan nirula",
+ 	"percentage":"80%"
+ },
+  {
+  	"course":"intermediate(m.p.c)",
+  	"college":"nri",
+  	"percentage":"80%"
+  }	,
+  {
+  	"school":"care school",
+  	"percentage":"80%"
+  }
+],
+ "skills":[
+      {
+         "name":"operating systems",
+         "value":"Windows,Linux,MAC"
+      },
+      {
+          "name":"Programming Languages",
+          "value":"C,C++,Java,Python"
+      }   
+   ],
+   "carrier":{
+       "ca":"Iam using my knoweldge and skills towards the growth of our organisation",
+    },
+    "achivements":[
+          
+               "i got first prize in chess competition"
+               
+  ],
+    "description":{
+      "des":"all above mentioned are true"
+      
+    }
+
+ 
+         
+
+               
+          
+   
+   
+
+
+
+
+ 
+ 	
+		  
